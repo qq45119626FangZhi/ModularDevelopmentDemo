@@ -1,4 +1,2 @@
-# AndroidComponent
-Androdid组件化
+Androdid模块化
 
-![Component](http://orbm62bsw.bkt.clouddn.com/Component.png)
